@@ -1,0 +1,24 @@
+HOW TO GIT!
+
+Install: http://git-scm.com/download/win
+Ctrl + Scroll to zoom -> Git Bash (Right-click folder -> open Git Bash)
+
+Basic Commands:
+$ git init          //  Initialize local git repository
+$ git add <file>    //  Add file(s) to index
+$ git status        //  Check status of working tree
+$ git commit        //  Commit changes in index
+$ git push          //  Push to remote repository
+$ git add*          //  Add multiple files at once
+$ git add .         //  Add everything
+touch filename      //  Create file in folder
+
+
+Step by step:
+1) git init (creates the git folder in directory)
+2) git config --global user.name 'Andy De Gheldere' (Set name)
+3) git config --global user.email 'andy.degheldere@gmail.com' (set email)
+4) git add filename (adds the file -> no commit yet!)
+5) git status (can always be used to check changes)
+6) git rm --cached filename (remove the file)
+
