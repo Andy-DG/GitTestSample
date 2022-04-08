@@ -26,3 +26,5 @@ Useful steps:
 9) clear (clears the terminal)
 10) touch .gitignore -> add files or directories that u don't want to add
 11) git branch branchname (create a branch)
+12) git checkout branchname (switch branch)
+13) git merge branchname -m 'comment' (merges branchname with current branch
