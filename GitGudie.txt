@@ -21,4 +21,3 @@ Step by step:
 4) git add filename (adds the file -> no commit yet!)
 5) git status (can always be used to check changes)
 6) git rm --cached filename (remove the file)
-
