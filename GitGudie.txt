@@ -14,11 +14,15 @@ $ git add .         //  Add everything
 touch filename      //  Create file in folder
 
 
-Step by step:
+Useful steps:
 1) git init (creates the git folder in directory)
 2) git config --global user.name 'Andy De Gheldere' (Set name)
 3) git config --global user.email 'andy.degheldere@gmail.com' (set email)
 4) git add filename (adds the file -> no commit yet!)
 5) git status (can always be used to check changes)
 6) git rm --cached filename (remove the file)
-
+7) git add . (add all files)
+8) git commit -m 'comment' (commit the file without the popup window)
+9) clear (clears the terminal)
+10) touch .gitignore -> add files or directories that u don't want to add
+11) git branch branchname (create a branch)
